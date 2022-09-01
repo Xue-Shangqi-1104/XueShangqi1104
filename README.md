@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Shangqi Xue and I go by Shang. I am interested in learning about how to make your programs more efficient and I'm currently not working on anything.
+My hobby is creating 3-D models in blender.
+
 <!--
 **XueShangqi1104/XueShangqi1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
